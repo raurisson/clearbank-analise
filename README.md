@@ -11,8 +11,6 @@ Projeto desenvolvido como desafio prático da pós-graduação da Rocketseat par
 ## Estrutura dos Arquivos
 * `desafio-final.ipynb`: Notebook com o pipeline completo, funções modulares e células executadas.
 * `transacoes.csv`: Base de dados contendo registros de crédito e débito com dados válidos e inconsistentes para testes.
-* `relatorio.json`: Arquivo gerado automaticamente contendo o consolidado mensal e as transações suspeitas.
-* `grafico.png`: Visualização gráfica do saldo mensal gerada via Matplotlib.
 
 ## Como Executar
 1. Acesse o ambiente do [Google Colab](https://colab.research.google.com/) ou utilize o Jupyter Notebook local.
