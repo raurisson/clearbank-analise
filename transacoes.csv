@@ -1,0 +1,22 @@
+id;data;cliente_id;tipo;valor;descricao;categoria
+1;2026-06-01;CLI001;credito;5000.00;Salario Mensal;salario
+2;2026-06-02;CLI001;debito;Qa;Supermercado;compra
+3;2026-06-03;CLI002;debito;3000.00;Aluguel;moradia
+4;2026-06-04;;debito;50.00;Lanche;alimentacao
+5;2026-06-05;CLI003;debito;abc;Estorno Errado;outros
+6;2026-07-05;CLI001;credito;200.00;Reembolso;outros
+7;2026-07-06;CLI001;credito;25000.00;Transferencia Grande TED;transferencia
+8;2026-07-07;CLI004;debito;320.00;Taxa Isenta;servicos
+9;2026-07-08;CLI002;debito;12000.00;Compra Alto Valor Joias;compra
+1;2026-07-01;CLI001;credito;5000.00;Salario Mensal;salario
+10;2026-08-09;CLI005;credito;3500.00;Freela Dev;salario
+11;2026-08-10;CLI005;debito;450.00;Energia e Internet;contas
+12;2026-08-11;CLI003;debito;450.00;Energia e Internet;contas
+13;2026-08-12;CLI002;debito;0;Energia e Internet;contas
+14;2026-08-13;CLI003;debito;-10.00;Energia e Internet;contas
+15;2026-08-14;CLI002;debito;450.00;Energia e Internet;contas
+16;15-08-2026;CLI001;credito;3500.00;Freela Dev;salario
+17;2026-08-15;CLI002;debito;2500.00;Compra celular;compra
+18;2026-08-15;CLI003;credito;500.00;Bico;Salario
+19;2026-08-16;CLI002;debito;700.00;Mercado;alimentacao
+20;2026-08-17;CLI001;debito;4500.00;Playstation;compra
